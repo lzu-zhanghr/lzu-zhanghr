@@ -10,7 +10,7 @@ In the overview below you will find my Internship experience:
 
 [<img align="left" height="80px" width="240px" alt="HAOMO.AI" src="http://www.haomo.ai/wp-content/uploads/2021/02/logo.svg"/>](http://www.haomo.ai/)
 
-**Senior Junior Algorithm Engineer (JAE)** \
+**Junior Algorithm Engineer (JAE)** \
 [**HAOMO.AI**](http://www.haomo.ai/) • Full-time \
 Languages & Technologies: `C++`, `Python`, `PyTorch`, `Tensorflow` \
 <br/>
