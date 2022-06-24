@@ -1,5 +1,20 @@
 
-🔭 I’m currently studying at [XiDian University](https://www.xidian.edu.cn/).
+### Hi there 👋
+- 🔭 I’m currently master's student at [XiDian University](https://www.xidian.edu.cn/), majoring in computer science.
+- 🌱 I've made some contributions to [ONNX](https://github.com/onnx/onnx), and will then open source some of my own projects .
+- ⚡ Besides contributing to open source I enjoy tinkering with VR, Metacosm, and Artificial Intelligence in general.
+- 💬 You can get in touch with me by email at [zhanghr0227@163.com](zhanghr0227@163.com).
+
+### Work Experience
+In the overview below you will find my Internship experience:
+
+[<img align="left" height="80px" width="240px" alt="HAOMO.AI" src="http://www.haomo.ai/wp-content/uploads/2021/02/logo.svg"/>](http://www.haomo.ai/)
+
+**Senior Junior Algorithm Engineer (JAE)** \
+[**HAOMO.AI**](http://www.haomo.ai/) • Full-time \
+Languages & Technologies: `C++`, `Python`, `PyTorch`, `Tensorflow` \
+<br/>
+<br/>
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=lzu-zhanghr&show_icons=true)
 
@@ -36,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
