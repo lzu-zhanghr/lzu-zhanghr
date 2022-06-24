@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-- 🔭 I’m currently master's student at [XiDian University](https://www.xidian.edu.cn/), majoring in computer science.
-- 🌱 I've made some contributions to [ONNX](https://github.com/onnx/onnx), and will then open source some of my own projects .
+- 🔭 I’m currently a postgraduate at [XiDian University](https://www.xidian.edu.cn/), majoring in computer science.
+- 🌱 I've made some contributions to [ONNX](https://github.com/onnx/onnx), and will then open-source some of my projects.
 - ⚡ Besides contributing to open source I enjoy tinkering with VR, Metacosm, and Artificial Intelligence in general.
 - 💬 You can get in touch with me by email at [zhanghr0227@163.com](zhanghr0227@163.com).
 
